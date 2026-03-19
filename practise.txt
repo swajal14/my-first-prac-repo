@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+ <html>
+    <head> 
+     <title>Buttons Practice</title>
+     <link rel="stylesheet" href="Styles\buttons_practice.css">
+    </head>    
+     <body>
+     <button class="R">Request now</button>
+     <button class="A">Add to Cart</button>
+     <button class="SU">Sign up/button>
+     <button class="G">Get started</button>
+     <button class="D">Download</button>
+     <button class="AO">Apply on company website</button>
+     <button class="SA">Save</button>
+ </body>
+</html>
